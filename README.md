@@ -1,13 +1,10 @@
 # Rizky Prayogi Reksomulyo - GitHub Profile
 
-![Profile Banner](https://raw.githubusercontent.com/NichtsElse/banner/main/banner.png)
-
 Hey there! 👋 I'm Rizky Prayogi Reksomulyo, an Informatics student passionate about Full-Stack Development, Data Analysis, Machine Learning, and Mobile App Development. I am dedicated to learning and growing in the world of coding, with a focus on Python, JavaScript, CSS, and HTML. Currently affiliated with Universitas Islam Indonesia, I strive to make meaningful contributions to the developer community.
 
 ## 🚀 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NichtsElse)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NichtsElse)
-[![trophy](https://github-profile-trophy.vercel.app/?username=NichtsElse)](https://github.com/NichtsElse)
 
 ## 💼 Skills & Interests
 - Full-Stack Development
