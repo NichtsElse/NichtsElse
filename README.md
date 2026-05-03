@@ -4,7 +4,6 @@ Hey there! 👋 I'm Rizky Prayogi Reksomulyo, an Informatics student passionate 
 
 ## 🚀 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NichtsElse?cardType=level&theme=onedark&fontFamily=Alike%20Angular&preferLogin=false)](https://git.io/awesome-stats-card)
-![GitHub Stats](https://streak-stats.demolab.com?user=NichtsElse&theme=tokyonight&hide_border=true)
 
 ## 💼 Skills & Interests
 - Full-Stack Development
