@@ -11,17 +11,6 @@ Hey there! 👋 I'm Rizky Prayogi Reksomulyo, an Informatics student passionate 
 - Machine Learning
 - Mobile App Development
 
-## 🛠️ Projects
-- "codingcamp-landing-page"
-- "ticket-booking-app"
-- "belajar-fullstack-docker"
-
-## 🌟 GitHub Presence
-- **17** public repositories
-- **113** total commits
-- **2** followers
-- Most starred repository: "belajar-fullstack-docker"
-
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/rizky-prayogi-reksomulyo)
 
