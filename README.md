@@ -1,16 +1,37 @@
-## Hi there 👋
+# Rizky Prayogi Reksomulyo - GitHub Profile
 
-<!--
-**NichtsElse/NichtsElse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://raw.githubusercontent.com/NichtsElse/banner/main/banner.png)
 
-Here are some ideas to get you started:
+Hey there! 👋 I'm Rizky Prayogi Reksomulyo, an Informatics student passionate about Full-Stack Development, Data Analysis, Machine Learning, and Mobile App Development. I am dedicated to learning and growing in the world of coding, with a focus on Python, JavaScript, CSS, and HTML. Currently affiliated with Universitas Islam Indonesia, I strive to make meaningful contributions to the developer community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NichtsElse)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NichtsElse)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NichtsElse)](https://github.com/NichtsElse)
+
+## 💼 Skills & Interests
+- Full-Stack Development
+- Data Analysis
+- Machine Learning
+- Mobile App Development
+
+## 🛠️ Projects
+- "codingcamp-landing-page"
+- "ticket-booking-app"
+- "belajar-fullstack-docker"
+
+## 🌟 GitHub Presence
+- **17** public repositories
+- **113** total commits
+- **2** followers
+- Most starred repository: "belajar-fullstack-docker"
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/rizky-prayogi-reksomulyo)
+
+## 🌱 Self-Introduction
+I am Rizky Prayogi Reksomulyo, a dedicated Informatics student with a keen interest in Full-Stack Development, Data Analysis, Machine Learning, and Mobile App Development. My journey on GitHub since October 2021 has been filled with exploration, learning, and project creation. With a range of skills in web development and data analysis, I hope to contribute meaningfully to the developer community while continuously improving my craft. Feel free to connect with me to discuss coding, projects, or anything tech-related!
+
+Let's create amazing things together! 🌟
+
+![Profile Footer](https://raw.githubusercontent.com/NichtsElse/footer/main/footer.png)
