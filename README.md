@@ -1,22 +1,68 @@
-# Rizky Prayogi Reksomulyo - GitHub Profile
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=nichtselse&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92860518%3Fv%3D4" alt="nichtselse hero visual" />
+</p>
 
-Hey there! 👋 I'm Rizky Prayogi Reksomulyo, an Informatics student passionate about Full-Stack Development, Data Analysis, Machine Learning, and Mobile App Development. I am dedicated to learning and growing in the world of coding, with a focus on Python, JavaScript, CSS, and HTML. Currently affiliated with Universitas Islam Indonesia, I strive to make meaningful contributions to the developer community.
+<p align="center"><b>Rizky Prayogi Reksomulyo</b> · Frontend or full-stack engineer<br/><sub>Informatics students</sub></p>
 
-## 🚀 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NichtsElse?cardType=level&theme=onedark&fontFamily=Alike%20Angular&preferLogin=false)](https://git.io/awesome-stats-card)
+<p align="center"><a href="https://github.com/nichtselse">GitHub</a></p>
 
-## 💼 Skills & Interests
-- Full-Stack Development
-- Data Analysis
-- Machine Learning
-- Mobile App Development
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/rizky-prayogi-reksomulyo)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=nichtselse&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92860518%3Fv%3D4" alt="nichtselse projects visual" />
+</p>
 
-## 🌱 Self-Introduction
-I am Rizky Prayogi Reksomulyo, a dedicated Informatics student with a keen interest in Full-Stack Development, Data Analysis, Machine Learning, and Mobile App Development. My journey on GitHub since October 2021 has been filled with exploration, learning, and project creation. With a range of skills in web development and data analysis, I hope to contribute meaningfully to the developer community while continuously improving my craft. Feel free to connect with me to discuss coding, projects, or anything tech-related!
+- [Project_Emotion_Detection_Using_YOLO](https://github.com/NichtsElse/Project_Emotion_Detection_Using_YOLO) · ★ 0
+- [Project-Attrition-Analysis](https://github.com/NichtsElse/Project-Attrition-Analysis) · ★ 0
+- [Project-Dropout-Detection](https://github.com/NichtsElse/Project-Dropout-Detection) · ★ 0
+- [Google-Play-Store-Review-Scraper-and-NLP-Analysis-Project](https://github.com/NichtsElse/Google-Play-Store-Review-Scraper-and-NLP-Analysis-Project) · ★ 0
+- [Proyek-Deteksi-Kanker-Payudara](https://github.com/NichtsElse/Proyek-Deteksi-Kanker-Payudara) · ★ 0
+- [Proyek-Sistem-Rekomendasi-buku](https://github.com/NichtsElse/Proyek-Sistem-Rekomendasi-buku) · ★ 0
 
-Let's create amazing things together! 🌟
+</details>
 
-![Profile Footer](https://raw.githubusercontent.com/NichtsElse/footer/main/footer.png)
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=nichtselse&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92860518%3Fv%3D4" alt="nichtselse stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>22</b> public repositories, <b>0</b> stars, <b>380</b> contributions in the last year, a longest streak of <b>8</b> days and <b>2</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=nichtselse&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92860518%3Fv%3D4" alt="nichtselse stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nichtselse&theme=neon" alt="nichtselse contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=nichtselse&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92860518%3Fv%3D4" alt="nichtselse social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Rizky Prayogi Reksomulyo · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
